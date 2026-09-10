@@ -101,7 +101,3 @@ PS C:\Users\yeswa\OneDrive\Desktop\MRM taskphase\task 3\new repo> git
  *  History restored 
  here i made some changes in the feature branch
 
-
-making the next learning
-made some changes in the new branch
-keep changing or life will hjit deve
